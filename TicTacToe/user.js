@@ -1,6 +1,6 @@
 const Game = require("./Game");
 
-let g1=Game.newGame("Umaid","Siddhi");
+let g1=Game.newGame("Umaid","rahul");
 let g2=Game.newGame("Sahil","Amisha");
 
 console.log(g1.play(0))
